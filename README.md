@@ -145,3 +145,7 @@ Test if predicted variable is normally distributed
  Heat map for correlation matrix.
 
  Pie chart to show the population distribution across different types of places (village, urban, town etc.).
+
+# Dashboard:
+Link:https://public.tableau.com/app/profile/yarramaddu.reddisekhar.reddy/viz/Case_Study_RE_SM_16881018598800/RE_STATS_Dashboard?publish=yes
+
